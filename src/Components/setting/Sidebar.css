@@ -1,0 +1,17 @@
+
+.sidebar-wrapper{
+    min-height: 500px ;
+    border-radius: 20px;
+    background-color: black;
+    width: 100%;
+    margin-left: 0.1rem;
+}
+
+.sidebar-sticky {
+    color: aliceblue;
+    margin-left: 30%;
+    align-items: center;
+}
+.nn {
+    font-size: 1vw;
+}

@@ -1,0 +1,32 @@
+
+.gol {
+    background-color: rgb(0, 0, 0);
+}
+.navasl {
+    background-color: rgb(68, 63, 139);
+}
+
+#dodo {
+    background-color: rgb(98, 101, 238);
+    color: aliceblue;
+}
+#dodo:hover {
+    background-color: rgb(1, 68, 126);
+}
+#didi {
+    background-color: rgb(11, 0, 158);
+
+    color: aliceblue;
+}
+#didi:hover{
+    background-color: rgba(163, 0, 0, 0.932);
+
+}
+#collasible-nav-dropdown {
+    background-image: black;
+    color: rgb(255, 255, 255);
+}
+
+.dropdown-menu.show {
+    background-color: rgb(98, 101, 238);
+}

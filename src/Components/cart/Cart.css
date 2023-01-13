@@ -1,0 +1,17 @@
+.btt {
+    margin-top: 2%;
+    margin-left: 80%;
+    background-image: linear-gradient(rgb(238, 238, 238), rgb(20, 16, 148));
+    font-style: italic;
+}
+
+.cartbadane {
+    min-height: 10vh;
+    color: aliceblue;
+}
+#cartitems {
+
+        background-image: radial-gradient( rgb(126, 122, 247), rgb(255, 255, 255));
+
+    color: rgb(0, 0, 0);
+}
