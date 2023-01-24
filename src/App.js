@@ -26,6 +26,7 @@ import Setting from "./Components/setting/Setting";
 import ChangePassword from "./Components/setting/changepassword/ChangePassword";
 import ChangeProfile from "./Components/setting/changeprofile/ChangeProfile";
 import UploadPhoto from "./Components/setting/uploadphoto/UploadPhoto";
+import Work from './Components/Work/Work';
 
 function App() {
   const cartt = useSelector((state) => state.cart);
@@ -75,6 +76,8 @@ function App() {
             <Route path="/product/:id" element={<Product />} />
             <Route path="/cart/:id" element={<Cart />} />
             <Route path="/cart" element={<Cart />} />
+            <Route path="/work" element={<Work />} />
+
 
             {ala ? (
               <Route
